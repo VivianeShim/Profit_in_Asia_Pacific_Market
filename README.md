@@ -1,7 +1,7 @@
 # Profit_in_Asia_Pacific_Market
 
 Please visit my Tableau Profile for tableau Story.
-https://public.tableau.com/profile/yaeweon.viviane.shim3582#!/
+https://public.tableau.com/profile/yaeweon.viviane.shim3582
 
 #Research Question
 Asia Pacific Market has the highest sales worldwide but the lowest % of profit. How can we increase the profit margin in Asia Pacific Market?
