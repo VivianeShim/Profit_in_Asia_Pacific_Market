@@ -1,4 +1,4 @@
-<span style="font-size:4em;">## Profit_in_Asia_Pacific_Market</span>## Profit_in_Asia_Pacific_Market
+## Profit_in_Asia_Pacific_Market
 3 Person Team project 
 
 [Please find the Tableau Stories] (https://public.tableau.com/profile/yaeweon.viviane.shim3582#!/vizhome/IncreaseProfitinAsiaPacificMarket/Story1)
