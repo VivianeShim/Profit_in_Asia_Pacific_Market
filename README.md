@@ -3,13 +3,13 @@
 Please visit my Tableau Profile for tableau Story.
 https://public.tableau.com/profile/yaeweon.viviane.shim3582
 
-#Research Question
+## Research Question
 Asia Pacific Market has the highest sales worldwide but the lowest % of profit. How can we increase the profit margin in Asia Pacific Market?
 
-##Introduction
+## Introduction
 To answer the reasearch question, we work on price strategy, sales effort strategy and cost strategy.
 
-##Product
+## Product
  
 We could see arts, paper, supplies have the lower sales % but interesting profit margin.
 We can increase the volumne of these products to increase our profit margin.
