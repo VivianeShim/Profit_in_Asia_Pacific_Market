@@ -1,6 +1,6 @@
 # Profit_in_Asia_Pacific_Market
 
-Please visit my Tableau Profile for tableau Story.
+Please visit my Tableau Profile for story created in Tableau.
 https://public.tableau.com/profile/yaeweon.viviane.shim3582
 
 ## Research Question
