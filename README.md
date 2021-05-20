@@ -44,6 +44,7 @@ But not all the products of those brands have negative profit. For example, Chro
 ### Shipping Cost
 
 Figure 6.
+
 ![Figure6](https://user-images.githubusercontent.com/49568184/118898823-6cf0c880-b8db-11eb-933f-10e401981fd8.jpg)
 
 We also analyzed the shipping mode and the order priority. We could figure out that the shipping cost of 2-days shipping is expensive than the cost of same-day shipping.
