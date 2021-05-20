@@ -72,6 +72,6 @@ Sales Strategy:
 
 Cost strategy: 
 
-9. Change the shipping mode in all subcategories from first to second class mode—just one day of difference and 31 % of cost reduction.
+9. Change the shipping mode in all subcategories from first to second class mode
  10. Adjust the discount and shipping cost according to seasonal performances.
 
