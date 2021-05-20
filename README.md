@@ -24,7 +24,7 @@ Figure 2.
 ![Figure2](https://user-images.githubusercontent.com/49568184/118898817-6c583200-b8db-11eb-9f91-b9c5d75ffa0d.jpg)
 For tables and chairs, we have a huge margin to increase the price. 
 
-### Brand (Deeper Analysis) 
+### Brand
 Figure 3. 
 
 ![Figure3](https://user-images.githubusercontent.com/49568184/118898820-6cf0c880-b8db-11eb-8a7f-47770fecca73.jpg)
